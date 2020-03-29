@@ -130,4 +130,15 @@ body {
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
+    /* width: 300px; */
+}
+
+.Project-element {
+    width: 40%;
+    left: 50%;
+    right: 50%;
+}
+
+.Project-element h2 {
+    text-align: center;
 }
