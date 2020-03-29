@@ -71,7 +71,7 @@ body {
     text-align: center;
     color: whitesmoke;
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://codetheweb.blog/assets/img/posts/full-image-hero/image.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://codetheweb.blog/assets/img/posts/full-image-hero/image.jpg') ;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -128,18 +128,19 @@ body {
     align-items: center;
 }
 
-.my-img {
+.my-img-para img {
     height: 100%;
-    align-content: center;
-    height: 0.5em;
+    /* align-content: center; */
+    /* height: 0.5em; */
     /* left: 200px; */
-    position: relative;
-    right: 500px;
+    /* position: relative; */
+    /* right: 500px; */
 }
 
 .para-abt {
     position: relative;
     max-width: 700px;
+    font-size: 1.5em;
 }
 
 .para-abt h1 {
